@@ -6,11 +6,11 @@ The player has to control two game characters and avoid the incoming leopards.
 The objective of the game is to avoid as many leopards as possible.
 
 ## Requirements
-1. Python 3.x
-2. PyGame Library
+- Python 3.x
+- PyGame Library
 
 ## Contributers
 ------------------------------
 
-Mihir Jain 
-Rishi Patidar
+- Mihir Jain 
+- Rishi Patidar
