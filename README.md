@@ -10,7 +10,5 @@ The objective of the game is to avoid as many leopards as possible.
 - PyGame Library
 
 ## Contributers
-------------------------------
-
 - Mihir Jain 
 - Rishi Patidar
